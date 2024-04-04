@@ -1,0 +1,14 @@
+.graph-container {
+  height: 50vh;
+  flex-wrap: wrap;
+  align-content: center;
+  box-shadow: 5px 5px 5px 5px lightgray;
+  margin: 10px;
+  width: auto;
+  display: flex;
+}
+.graph-container canvas {
+  padding: 10px;
+  width: 100% !important;
+  height: 100% !important;
+}

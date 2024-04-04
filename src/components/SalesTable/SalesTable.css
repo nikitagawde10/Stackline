@@ -1,0 +1,17 @@
+.sales-container {
+  box-shadow: 5px 5px 5px 5px lightgray;
+  margin: 10px;
+  height: 50vh;
+  overflow-y: auto;
+
+  .MuiPaper-root {
+    overflow-x: unset;
+    width: auto;
+  }
+  .MuiTableCell-stickyHeader {
+    font-weight: bold;
+  }
+}
+.salesTableCell {
+  color: rgb(113, 110, 110);
+}
