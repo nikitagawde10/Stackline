@@ -1,6 +1,6 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import { RootState } from './store';
-import mockData from '../utils/stackline_frontend_assessment_data_2021.json'; // Assume you have the JSON data saved here
+import mockData from '../utils/stackline_frontend_assessment_data_2021.json'; 
 import { Product } from '../utils/types';
 
 interface ProductState {
