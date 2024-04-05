@@ -1,6 +1,6 @@
 # Stackline Assessment
 The repository is created using React, TypeScript and Vite. 
-
+### The project is hosted on https://stacklineassessmentnikitagawde.netlify.app/
 ## Graph 
 The npm library for graph is `react-chartjs-2`
 
